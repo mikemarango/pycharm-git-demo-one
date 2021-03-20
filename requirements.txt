@@ -7,7 +7,7 @@
 click==7.1.1              # via -r C:\Users\Mike\pycharmprojects\pycharm-git-demo-one\requirements.txt, flask, pip-tools
 flask==1.1.1              # via -r C:\Users\Mike\pycharmprojects\pycharm-git-demo-one\requirements.txt
 itsdangerous==1.1.0       # via -r C:\Users\Mike\pycharmprojects\pycharm-git-demo-one\requirements.txt, flask
-jinja2==2.11.1            # via -r C:\Users\Mike\pycharmprojects\pycharm-git-demo-one\requirements.txt, flask
+jinja2==2.11.3            # via -r C:\Users\Mike\pycharmprojects\pycharm-git-demo-one\requirements.txt, flask
 markupsafe==1.1.1         # via -r C:\Users\Mike\pycharmprojects\pycharm-git-demo-one\requirements.txt, jinja2
 pip-tools==4.5.1          # via -r C:\Users\Mike\pycharmprojects\pycharm-git-demo-one\requirements.txt
 six==1.14.0               # via -r C:\Users\Mike\pycharmprojects\pycharm-git-demo-one\requirements.txt, pip-tools
